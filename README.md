@@ -52,10 +52,7 @@ python funcoes/questao1_soma.py
 python poo/questao2_fornecedor.py
 ```
 
-## Autor
-
-[Wesnei](https://github.com/wesnei)
-
 ## Licença
+
 
 Este projeto foi criado para fins educacionais como parte do curso de Programação para Dispositivos Móveis.
